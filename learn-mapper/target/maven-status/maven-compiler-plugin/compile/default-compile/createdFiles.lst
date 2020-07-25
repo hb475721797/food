@@ -1,0 +1,16 @@
+com/learn/mapper/PdmanDbVersionMapper.class
+com/learn/mapper/CategoryMapperCustom.class
+com/learn/mapper/ItemsMapper.class
+com/learn/mapper/UsersMapper.class
+com/learn/my/mapper/MyMapper.class
+com/learn/mapper/ItemsParamMapper.class
+com/learn/mapper/CategoryMapper.class
+com/learn/mapper/OrdersMapper.class
+com/learn/mapper/UserAddressMapper.class
+com/learn/mapper/ItemsImgMapper.class
+com/learn/mapper/OrderItemsMapper.class
+com/learn/mapper/ItemsSpecMapper.class
+com/learn/mapper/ItemsCommentsMapper.class
+com/learn/mapper/ItemsMapperCustom.class
+com/learn/mapper/OrderStatusMapper.class
+com/learn/mapper/CarouselMapper.class

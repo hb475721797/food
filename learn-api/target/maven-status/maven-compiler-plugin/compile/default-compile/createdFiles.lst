@@ -1,0 +1,7 @@
+com/learn/controller/ItemsController.class
+com/learn/config/Swagger2.class
+com/learn/controller/BaseController.class
+com/learn/aspect/ServiceLogAspect.class
+com/learn/controller/IndexController.class
+com/learn/Application.class
+com/learn/controller/PassportController.class
